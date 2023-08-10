@@ -3,9 +3,11 @@
 The DFASimulator is a Python program that simulates the behavior of a Deterministic Finite Automaton (DFA) based on the provided definition file. Users can input strings to see whether the DFA accepts or rejects the input.
 
 # Features
-Create a DFA based on a definition file.
-Check input strings for acceptance by the DFA.
-Verbose mode to print additional debugging information.
+DFA Creation: Define your DFA via a simple definition file.
+
+String Testing: Input strings interactively and see if they're accepted or rejected by your DFA.
+
+Debug Mode: Activate verbose mode for detailed insights.
 
 # How to use:
 ### 1. Prepare your DFA definition file
